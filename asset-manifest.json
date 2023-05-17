@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-app/static/css/main.bcbbacbd.css",
+    "main.js": "/react-app/static/js/main.750f8d38.js",
+    "static/js/787.b8db87d6.chunk.js": "/react-app/static/js/787.b8db87d6.chunk.js",
+    "static/media/nature7.jpg": "/react-app/static/media/nature7.c7bcc7d0da67cbd3f71c.jpg",
+    "static/media/nature3.jpg": "/react-app/static/media/nature3.3b66fc16bd231305b573.jpg",
+    "static/media/nature4.jpg": "/react-app/static/media/nature4.1565ce6b67220d8ffd4f.jpg",
+    "static/media/talvolcano.jpg": "/react-app/static/media/talvolcano.007f6601d74f62a2535b.jpg",
+    "static/media/nature1.jpg": "/react-app/static/media/nature1.f1ebc543acb1e0f9c3ed.jpg",
+    "static/media/hero.jpg": "/react-app/static/media/hero.71bbfd92472d91e17670.jpg",
+    "static/media/nature5.jpg": "/react-app/static/media/nature5.63251ea4a7219161c96e.jpg",
+    "static/media/bulb.jpg": "/react-app/static/media/bulb.4355c10b18d0f4466953.jpg",
+    "static/media/nature11.jpg": "/react-app/static/media/nature11.725e2762cb0059bc87a8.jpg",
+    "index.html": "/react-app/index.html",
+    "main.bcbbacbd.css.map": "/react-app/static/css/main.bcbbacbd.css.map",
+    "main.750f8d38.js.map": "/react-app/static/js/main.750f8d38.js.map",
+    "787.b8db87d6.chunk.js.map": "/react-app/static/js/787.b8db87d6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bcbbacbd.css",
+    "static/js/main.750f8d38.js"
+  ]
+}
